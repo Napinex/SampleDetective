@@ -32,6 +32,7 @@ Im Projektordner PowerShell öffnen und ausführen:
 ```
 
 Die Datei erstellt eine virtuelle Umgebung, installiert Pakete, baut den Index und startet die App.
+Wenn Ollama bereits installiert ist, lädt sie außerdem automatisch das Standardmodell `llama3.2:3b`, falls es noch fehlt.
 
 Danach öffnet sich meistens automatisch:
 
@@ -41,7 +42,8 @@ http://localhost:8501
 
 ## Ollama optional
 
-Für echte lokale LLM-Antworten kannst du Ollama installieren und ein Modell laden:
+Für echte lokale LLM-Antworten kannst du Ollama installieren. Danach lädt `run_windows.bat` das Standardmodell automatisch, falls es noch fehlt.
+Manuell geht es so:
 
 ```powershell
 ollama pull llama3.2:3b
