@@ -1,0 +1,13 @@
+﻿request_id,requested_material_nr,requested_test_type,requested_test_name,target_date,priority,requester,decision_status,business_goal,notes
+REQ-2026-001,4897.B4T.0PR,NVH_NOISE,NVH-/Geräuschtest,2026-07-03,medium,Musterkoordination,open,Neubestellung vermeiden,Anfrage für den Bestell- und Wiederverwendungsprozess.
+REQ-2026-002,4897.B4T.0S3,REGRESSION_SW,Software-Regressionstest,2026-07-05,high,System Engineering,open,Reuse prüfen,Anfrage für den Bestell- und Wiederverwendungsprozess.
+REQ-2026-003,4897.B4T.0S3,NVH_NOISE,NVH-/Geräuschtest,2026-07-15,low,System Engineering,open,Reuse prüfen,Anfrage für den Bestell- und Wiederverwendungsprozess.
+REQ-2026-004,4897.B4T.0PR,THERMAL_FADE,Thermal-Fade-Test,2026-08-06,low,System Engineering,open,Schneller Teststart,Anfrage für den Bestell- und Wiederverwendungsprozess.
+REQ-2026-005,4897.B4T.0NM,FINAL_VALID,Finale Validierung,2026-06-30,medium,System Engineering,open,Neubestellung vermeiden,Anfrage für den Bestell- und Wiederverwendungsprozess.
+REQ-2026-006,4897.B4T.0PR,DURABILITY,Dauerlauf / Endurance,2026-07-11,low,Validierung,open,Neubestellung vermeiden,Anfrage für den Bestell- und Wiederverwendungsprozess.
+REQ-2026-007,4897.B4T.0S3,NVH_NOISE,NVH-/Geräuschtest,2026-07-15,high,Musterkoordination,open,Reuse prüfen,Anfrage für den Bestell- und Wiederverwendungsprozess.
+REQ-2026-008,4897.B4T.0NM,DURABILITY,Dauerlauf / Endurance,2026-07-03,low,QS,open,Reuse prüfen,Anfrage für den Bestell- und Wiederverwendungsprozess.
+REQ-2026-009,4897.B4T.0RJ,PRESSURE_LEAK,Druck- und Leckagetest,2026-07-30,medium,Musterkoordination,open,Reuse prüfen,Anfrage für den Bestell- und Wiederverwendungsprozess.
+REQ-2026-010,4897.B4T.0N4,CORROSION,Korrosions-/Umwelttest,2026-07-14,high,Validierung,open,Schneller Teststart,Anfrage für den Bestell- und Wiederverwendungsprozess.
+
+

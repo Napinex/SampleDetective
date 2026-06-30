@@ -1,0 +1,17 @@
+﻿local_id,defect_id,related_test_id,severity,status,defect_type,opened_at,closed_at,impact_on_reuse,description,root_cause_hypothesis,action
+4301828993017651,DEF-001-01,T-12345,Low,closed,Assembly deviation,2026-03-22,2026-03-26,minor,Dokumentierte Auffälligkeit im Druck- und Leckagetest.,Sensor-Kalibrierung prüfen,8D-Analyse
+4301827613015320,DEF-002-01,T-98765,Low,open,Thermal drift,2026-03-18,,minor,Dokumentierte Auffälligkeit im ABS-/Regelungstest.,Montagezustand prüfen,Nachtest planen
+4301827613015320,DEF-002-02,T-87654,Low,open,Leakage,2026-03-27,,minor,Dokumentierte Auffälligkeit im NVH-/Geräuschtest.,Materialcharge vergleichen,QS-Freigabe einholen
+4301827613015290,DEF-004-02,T-11223,Medium,open,Assembly deviation,2026-03-25,,needs review,Dokumentierte Auffälligkeit im Dauerlauf / Endurance.,Softwarestand prüfen,QS-Freigabe einholen
+4401831543017350,DEF-005-02,T-66778,Low,open,Assembly deviation,2026-03-17,,minor,Dokumentierte Auffälligkeit im Feld-/Fahrzeugtest.,Materialcharge vergleichen,Komponente ersetzen
+4401831543017350,DEF-005-03,T-32109,High,open,Noise,2026-03-24,,blocks reuse,Dokumentierte Auffälligkeit im Software-Regressionstest.,Sensor-Kalibrierung prüfen,8D-Analyse
+4401831543017350,DEF-005-04,T-55667,Medium,closed,Sensor deviation,2026-04-04,2026-04-13,needs review,Dokumentierte Auffälligkeit im Korrosions-/Umwelttest.,Sensor-Kalibrierung prüfen,QS-Freigabe einholen
+4401831543017350,DEF-005-05,T-65432,Medium,closed,Thermal drift,2026-04-11,2026-04-15,needs review,Dokumentierte Auffälligkeit im Finale Validierung.,Materialcharge vergleichen,Komponente ersetzen
+4301827613015300,DEF-006-01,T-23456,Low,open,Noise,2026-03-05,,minor,Dokumentierte Auffälligkeit im Feld-/Fahrzeugtest.,Montagezustand prüfen,QS-Freigabe einholen
+4301827613015300,DEF-006-02,T-34567,Low,open,Assembly deviation,2026-03-11,,minor,Dokumentierte Auffälligkeit im Software-Regressionstest.,Montagezustand prüfen,8D-Analyse
+4301800000000012,DEF-012-01,T-012-01,Medium,open,Thermal drift,2026-06-18,,needs review,Offener Medium-Defect.,Sensor-Kalibrierung prüfen,8D-Analyse
+4301800000000015,DEF-015-01,T-015-04,Low,open,Sensor deviation,2026-06-20,,needs review,Offener Low-Defect.,Materialcharge vergleichen,QS-Freigabe einholen
+4301800000000015,DEF-015-02,T-015-04,Medium,open,Assembly deviation,2026-05-04,,needs review,Offener Medium-Defect.,Softwarestand prüfen,Komponente ersetzen
+4301800000000016,DEF-016-01,T-016-01,Medium,open,Thermal drift,2026-06-15,,needs review,Offener Medium-Defect.,Sensor-Kalibrierung prüfen,8D-Analyse
+
+

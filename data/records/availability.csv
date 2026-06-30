@@ -1,0 +1,19 @@
+﻿local_id,status,status_de,location,available_from,reserved_until,lead_time_days_if_ordered_new,reuse_decision_hint
+4301828993017651,available,verfügbar,Musterlager HN,2026-06-23,,28,reuse candidate
+4301827613015320,reserved,reserviert,Prüfstand HN-02,2026-07-06,2026-07-11,21,review required
+0805038020400411,available,verfügbar,Musterlager HN,2026-06-23,,35,reuse candidate
+4301827613015290,in_test,im Test,Feldtest Pool,2026-06-29,2026-07-07,42,order new likely
+4401831543017350,blocked,gesperrt,Wartezone QS,2026-07-12,2026-07-05,28,order new likely
+4301827613015300,available,verfügbar,Musterlager HN,2026-06-23,,35,review required
+4301800000000007,in_test,im Test,Musterlager HN,2026-07-23,2026-07-14,28,review required
+4301800000000008,in_test,im Test,Validierung Abstatt,2026-07-01,2026-07-05,21,order new likely
+4301800000000009,available,verfügbar,Prüfstand HN-02,2026-06-23,,28,review required
+4301800000000010,available,verfügbar,Wartezone QS,2026-06-23,,35,reuse candidate
+4301800000000011,available,verfügbar,Prüfstand HN-01,2026-06-23,,28,review required
+4301800000000012,in_test,im Test,Wartezone QS,2026-07-22,2026-06-28,21,order new likely
+4301800000000013,available,verfügbar,Feldtest Pool,2026-06-23,,42,reuse candidate
+4301800000000014,available,verfügbar,Prüfstand HN-01,2026-06-23,,21,reuse candidate
+4301800000000015,available,verfügbar,Validierung Abstatt,2026-06-23,,35,order new likely
+4301800000000016,in_test,im Test,Wartezone QS,2026-07-09,2026-07-03,21,order new likely
+
+

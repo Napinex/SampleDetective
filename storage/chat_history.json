@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Welche Prüfmuster sind aktuell verfügbar?"
+  },
+  {
+    "role": "assistant",
+    "content": "Laut aktuellem Datenbestand sind **9 Prüfmuster verfügbar**.\n\n| Muster | Material | Produkt | Standort | Verfügbar ab | Health | Reuse | Offene Defects |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 4301828993017651 | 4897.B4T.0S3 | ESP10 CP | Musterlager HN | 2026-06-23 | 98 | 93 | 0 |\n| 4301800000000010 | 4897.B4T.0RG | ESP10 CB | Wartezone QS | 2026-06-23 | 98 | 93 | 0 |\n| 4301800000000009 | 4897.B4T.0PR | ESP10 CP | Prüfstand HN-02 | 2026-06-23 | 86 | 91 | 0 |\n| 4301800000000014 | 4897.B4T.0NM | ESP10 TE | Prüfstand HN-01 | 2026-06-23 | 91 | 88 | 0 |\n| 0805038020400411 | 4897.B4T.0RG | ESP10 TE | Musterlager HN | 2026-06-23 | 76 | 85 | 0 |\n| 4301800000000013 | 4897.B4T.0PR | ESP10 CB | Feldtest Pool | 2026-06-23 | 76 | 85 | 0 |\n| 4301800000000011 | 4897.B4T.0RG | ESP10 CB | Prüfstand HN-01 | 2026-06-23 | 72 | 83 | 0 |\n| 4301800000000015 | 4897.B4T.0N4 | ESP10 CP | Validierung Abstatt | 2026-06-23 | 60 | 65 | 2 |\n| 4301827613015300 | 4897.B4T.0RJ | ESP10 CB | Musterlager HN | 2026-06-23 | 58 | 64 | 2 |\n\nQuelle: `samples.csv`, `availability.csv`."
+  }
+]

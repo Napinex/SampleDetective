@@ -1,0 +1,362 @@
+﻿material_nr,item,component,component_description,quantity,unit,function_group,criticality,reuse_relevance
+4897.B4T.0S3,1,1345789012,Screw,1,PC,Fastener,low,normal
+4897.B4T.0S3,2,1876345901,Screw,1,PC,Fastener,low,normal
+4897.B4T.0S3,3,1543210987,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,4,1098765432,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,5,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,6,1987654321,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,7,1654321098,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,8,2109876543,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,9,1432109876,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0S3,10,1789012345,Compression Spring,1,PC,Fastener,medium,normal
+4897.B4T.0S3,11,1321098765,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0S3,12,5123456789,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,13,5876543210,Grease,5,ML,Sensorics,low,normal
+4897.B4T.0S3,15,1098765432,Grease,0.01,G,Fastener,low,normal
+4897.B4T.0S3,16,1234567890,Pump,1,PC,Sensorics,low,normal
+4897.B4T.0S3,17,1543210987,Pump,1,PC,Fastener,low,normal
+4897.B4T.0S3,18,1876345901,Valve,1,PC,Sensorics,low,normal
+4897.B4T.0S3,19,1345789012,Valve,1,PC,Electronics,low,normal
+4897.B4T.0S3,20,1654321098,Damper,1,PC,Sensorics,medium,normal
+4897.B4T.0S3,21,1987654321,Damper,1,PC,Housing,medium,normal
+4897.B4T.0S3,22,1210987654,Choke,1,PC,Sealing,low,normal
+4897.B4T.0S3,23,1567890123,Choke,1,PC,Sealing,medium,normal
+4897.B4T.0S3,24,123456789,Damper,1,PC,Hydraulics,low,normal
+4897.B4T.0S3,25,1432109876,Motor,1,PC,Housing,medium,normal
+4897.B4T.0S3,26,1789012345,Damper,1,PC,Mechanics,low,normal
+4897.B4T.0S3,27,2109876543,Sticker,1,PC,Hydraulics,low,normal
+4897.B4T.0S3,28,2456789012,Protective Cap,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,29,2789012345,Protective Cap,1,PC,Hydraulics,low,normal
+4897.B4T.0S3,30,2012345678,Protective Cap,1,PC,Actuation,medium,normal
+4897.B4T.0S3,31,2345678901,Protective Cap,1,PC,Actuation,low,normal
+4897.B4T.0S3,32,2678901234,Protective Cap,1,PC,Actuation,low,normal
+4897.B4T.0S3,33,5987654321,Protective Cap,1,PC,Mechanics,medium,normal
+4897.B4T.0S3,34,1012345678,Brake Fluid,0.01,G,Hydraulics,medium,normal
+4897.B4T.0S3,35,1345789012,Guide Ring,1,PC,Actuation,medium,normal
+4897.B4T.0S3,36,1678901234,Guide Ring,1,PC,Sealing,medium,normal
+4897.B4T.0S3,37,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,38,1234567890,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0S3,39,0789.A12.345-67,Needle bearing,1,PC,Sealing,medium,normal
+4897.B4T.0S3,40,0567.B90.123-45,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0S3,41,0234.C56.789-01,Valve,1,PC,Mechanics,medium,normal
+4897.B4T.0S3,42,1456789012,Valve,1,PC,Actuation,low,normal
+4897.B4T.0S3,43,1789012345,Valve,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,44,1012345678,Valve,1,PC,Electronics,low,normal
+4897.B4T.0S3,45,1345789012,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0S3,46,1678901234,Valve,1,PC,Actuation,low,normal
+4897.B4T.0S3,47,1901234567,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0S3,48,1234567890,Valve,1,PC,Sealing,medium,normal
+4897.B4T.0S3,49,1567890123,Valve,1,PC,Sensorics,medium,normal
+4897.B4T.0S3,50,1890123456,Pressure Sensor,1,PC,Housing,medium,normal
+4897.B4T.0S3,51,0456.D78.901-23,Screw,1,PC,Fastener,low,normal
+4897.B4T.0S3,52,1123456789,Valve,1,PC,Housing,medium,normal
+4897.B4T.0S3,53,1456789012,Valve,1,PC,Fastener,low,normal
+4897.B4T.0S3,54,2789012345,Compression Spring,1,PC,Hydraulics,low,normal
+4897.B4T.0S3,55,1012345678,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0S3,56,1345789012,Piston,1,PC,Mechanics,medium,normal
+4897.B4T.0S3,57,1234.F56.789-01,Piston,1,PC,Sensorics,medium,normal
+4897.B4T.0S3,58,1678901234,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0S3,59,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,60,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0S3,61,0123.E45.678-90,Screw,1,PC,Fastener,low,normal
+4897.B4T.0S3,62,1567890123,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0NM,1,1345789012,Screw,1,PC,Fastener,low,normal
+4897.B4T.0NM,2,1876345901,Screw,1,PC,Fastener,low,normal
+4897.B4T.0NM,3,1543210987,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0NM,4,1098765432,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0NM,5,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0NM,6,1987654321,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0NM,7,1654321098,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0NM,8,2109876543,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0NM,9,1432109876,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0NM,10,1789012345,Compression Spring,1,PC,Electronics,medium,normal
+4897.B4T.0NM,11,1321098765,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0NM,12,5123456789,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0NM,13,5876543218,Grease,5,ML,Fastener,low,normal
+4897.B4T.0NM,15,1098765432,Grease,0.01,G,Housing,low,normal
+4897.B4T.0NM,16,1234567890,Pump,1,PC,Mechanics,low,normal
+4897.B4T.0NM,17,1543210987,Pump,1,PC,Housing,medium,normal
+4897.B4T.0NM,18,1876345901,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0NM,19,1345789012,Valve,1,PC,Mechanics,medium,normal
+4897.B4T.0NM,20,1654321098,Damper,1,PC,Actuation,medium,normal
+4897.B4T.0NM,21,1987654321,Damper,1,PC,Housing,medium,normal
+4897.B4T.0NM,22,1210987654,Choke,1,PC,Housing,low,normal
+4897.B4T.0NM,23,1567890123,Choke,1,PC,Hydraulics,low,normal
+4897.B4T.0NM,24,123456789,Damper,1,PC,Actuation,low,normal
+4897.B4T.0NM,25,1432109876,Motor,1,PC,Sealing,low,normal
+4897.B4T.0NM,26,1789012345,Damper,1,PC,Sensorics,medium,normal
+4897.B4T.0NM,27,2109876543,Sticker,1,PC,Housing,medium,normal
+4897.B4T.0NM,28,2456789012,Protective Cap,1,PC,Hydraulics,low,normal
+4897.B4T.0NM,29,2789012345,Protective Cap,1,PC,Housing,low,normal
+4897.B4T.0NM,30,2012345678,Protective Cap,1,PC,Actuation,low,normal
+4897.B4T.0NM,31,2345678901,Protective Cap,1,PC,Housing,low,normal
+4897.B4T.0NM,32,2678901234,Protective Cap,1,PC,Sealing,medium,normal
+4897.B4T.0NM,33,5987654321,Protective Cap,1,PC,Fastener,low,normal
+4897.B4T.0NM,34,1012345678,Brake Fluid,0.01,G,Housing,low,normal
+4897.B4T.0NM,35,1345789012,Guide Ring,1,PC,Electronics,low,normal
+4897.B4T.0NM,36,1678901234,Guide Ring,1,PC,Fastener,medium,normal
+4897.B4T.0NM,37,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0NM,38,1234567890,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0NM,39,0789.A12.345-67,Needle bearing,1,PC,Electronics,medium,normal
+4897.B4T.0NM,40,0567.B90.123-45,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0NM,41,0234.C56.789-01,Valve,1,PC,Sealing,low,normal
+4897.B4T.0NM,42,1456789012,Valve,1,PC,Housing,medium,normal
+4897.B4T.0NM,43,1789012345,Valve,1,PC,Hydraulics,low,normal
+4897.B4T.0NM,44,1012345678,Valve,1,PC,Mechanics,medium,normal
+4897.B4T.0NM,45,1345789012,Valve,1,PC,Hydraulics,low,normal
+4897.B4T.0NM,46,1678901234,Valve,1,PC,Sealing,low,normal
+4897.B4T.0NM,47,1901234567,Valve,1,PC,Housing,low,normal
+4897.B4T.0NM,48,1234567890,Valve,1,PC,Sensorics,low,normal
+4897.B4T.0NM,49,1567890123,Valve,1,PC,Mechanics,low,normal
+4897.B4T.0NM,50,1890123456,Pressure Sensor,1,PC,Mechanics,medium,normal
+4897.B4T.0NM,51,0456.D78.901-23,Screw,1,PC,Fastener,low,normal
+4897.B4T.0NM,52,1123456789,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0NM,53,1456789012,Valve,1,PC,Mechanics,medium,normal
+4897.B4T.0NM,54,2789012345,Compression Spring,1,PC,Fastener,low,normal
+4897.B4T.0NM,55,1012345678,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0NM,56,1345789012,Piston,1,PC,Sensorics,low,normal
+4897.B4T.0NM,57,1234.F56.789-01,Piston,1,PC,Housing,low,normal
+4897.B4T.0NM,58,1678901234,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0NM,59,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0NM,60,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0NM,61,0123.E45.678-90,Screw,1,PC,Fastener,low,normal
+4897.B4T.0NM,62,1567890123,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0RG,1,1345789012,Screw,1,PC,Fastener,low,normal
+4897.B4T.0RG,2,1876345901,Screw,1,PC,Fastener,low,normal
+4897.B4T.0RG,3,1543210987,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,4,1098765432,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,5,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,6,1987654321,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,7,1654321098,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,8,2109876543,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,9,1432109876,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0RG,10,1789012345,Compression Spring,1,PC,Sealing,low,normal
+4897.B4T.0RG,11,1321098765,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0RG,12,5123456789,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,13,5876543218,Grease,5,ML,Sealing,low,normal
+4897.B4T.0RG,15,1098765432,Grease,0.01,G,Sealing,low,normal
+4897.B4T.0RG,16,1234567890,Pump,3,PC,Mechanics,medium,normal
+4897.B4T.0RG,17,1543210987,Pump,3,PC,Electronics,medium,normal
+4897.B4T.0RG,18,1876345901,Valve,1,PC,Fastener,low,normal
+4897.B4T.0RG,19,1345789012,Valve,1,PC,Housing,medium,normal
+4897.B4T.0RG,20,1654321098,Damper,1,PC,Electronics,low,normal
+4897.B4T.0RG,21,1987654321,Damper,1,PC,Sensorics,medium,normal
+4897.B4T.0RG,22,1210987654,Choke,1,PC,Sensorics,medium,normal
+4897.B4T.0RG,23,1567890123,Choke,1,PC,Hydraulics,low,normal
+4897.B4T.0RG,24,123456789,Damper,1,PC,Sealing,medium,normal
+4897.B4T.0RG,25,1432109876,Motor,1,PC,Sealing,low,normal
+4897.B4T.0RG,26,1789012345,Damper,1,PC,Fastener,low,normal
+4897.B4T.0RG,27,2109876543,Sticker,1,PC,Housing,medium,normal
+4897.B4T.0RG,28,1012345678,Brake Fluid,0.01,G,Electronics,low,normal
+4897.B4T.0RG,29,1345789012,Guide Ring,1,PC,Electronics,medium,normal
+4897.B4T.0RG,30,1678901234,Guide Ring,1,PC,Mechanics,medium,normal
+4897.B4T.0RG,31,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,32,1234567890,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0RG,33,0789.A12.345-67,Needle bearing,1,PC,Electronics,medium,normal
+4897.B4T.0RG,34,0567.B90.123-45,Valve,1,PC,Hydraulics,low,normal
+4897.B4T.0RG,35,0234.C56.789-01,Valve,1,PC,Mechanics,medium,normal
+4897.B4T.0RG,36,1456789012,Valve,1,PC,Housing,low,normal
+4897.B4T.0RG,37,1789012345,Valve,1,PC,Hydraulics,low,normal
+4897.B4T.0RG,38,1012345678,Valve,1,PC,Fastener,medium,normal
+4897.B4T.0RG,39,1345789012,Valve,1,PC,Fastener,low,normal
+4897.B4T.0RG,40,1678901234,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0RG,41,1901234567,Valve,1,PC,Housing,low,normal
+4897.B4T.0RG,42,1234567890,Valve,1,PC,Mechanics,medium,normal
+4897.B4T.0RG,43,1567890123,Valve,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,44,1890123456,Pressure Sensor,1,PC,Actuation,medium,normal
+4897.B4T.0RG,45,0456.D78.901-23,Screw,1,PC,Fastener,low,normal
+4897.B4T.0RG,46,1123456789,Valve,1,PC,Actuation,medium,normal
+4897.B4T.0RG,47,1456789012,Valve,1,PC,Hydraulics,low,normal
+4897.B4T.0RG,48,2789012345,Compression Spring,1,PC,Actuation,medium,normal
+4897.B4T.0RG,49,1012345678,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0RG,50,1345789012,Piston,1,PC,Electronics,medium,normal
+4897.B4T.0RG,51,1234.F56.789-01,Piston,1,PC,Mechanics,low,normal
+4897.B4T.0RG,52,1678901234,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0RG,53,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,54,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RG,55,0123.E45.678-90,Screw,1,PC,Fastener,low,normal
+4897.B4T.0RG,56,1567890123-79,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0N4,1,1345789012,Screw,1,PC,Fastener,low,normal
+4897.B4T.0N4,2,1876345901,Screw,1,PC,Fastener,low,normal
+4897.B4T.0N4,3,1543210987,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0N4,4,1098765432,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0N4,5,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0N4,6,1987654321,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0N4,7,1654321098,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0N4,8,2109876543,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0N4,9,773948263,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0N4,10,1789012345,Compression Spring,1,PC,Electronics,low,normal
+4897.B4T.0N4,11,1321098765,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0N4,12,5123456789,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0N4,13,5876543210,Grease,5,ML,Actuation,medium,normal
+4897.B4T.0N4,15,1098765432,Grease,0.01,G,Actuation,low,normal
+4897.B4T.0N4,16,1234567890,Pump,1,PC,Mechanics,low,normal
+4897.B4T.0N4,17,1543210987,Pump,1,PC,Electronics,medium,normal
+4897.B4T.0N4,18,1876345901,Valve,1,PC,Fastener,low,normal
+4897.B4T.0N4,19,1345789012,Valve,1,PC,Actuation,medium,normal
+4897.B4T.0N4,20,1654321098,Damper,1,PC,Electronics,low,normal
+4897.B4T.0N4,21,1987654321,Damper,1,PC,Sensorics,medium,normal
+4897.B4T.0N4,22,1210987654,Choke,1,PC,Sealing,medium,normal
+4897.B4T.0N4,23,1567890123,Choke,1,PC,Electronics,medium,normal
+4897.B4T.0N4,24,123456789,Damper,1,PC,Hydraulics,low,normal
+4897.B4T.0N4,25,1432109876,Motor,1,PC,Sensorics,low,normal
+4897.B4T.0N4,26,1789012345,Damper,1,PC,Housing,low,normal
+4897.B4T.0N4,27,2109876543,Sticker,1,PC,Mechanics,low,normal
+4897.B4T.0N4,28,2456789012,Protective Cap,1,PC,Sensorics,low,normal
+4897.B4T.0N4,29,2789012345,Protective Cap,1,PC,Electronics,low,normal
+4897.B4T.0N4,30,2012345678,Protective Cap,1,PC,Sealing,medium,normal
+4897.B4T.0N4,31,2345678901,Protective Cap,1,PC,Housing,medium,normal
+4897.B4T.0N4,32,2678901234,Protective Cap,1,PC,Mechanics,medium,normal
+4897.B4T.0N4,33,5987654321,Protective Cap,1,PC,Electronics,low,normal
+4897.B4T.0N4,34,1012345678,Brake Fluid,0.01,G,Electronics,low,normal
+4897.B4T.0N4,35,1345789012,Guide Ring,1,PC,Mechanics,low,normal
+4897.B4T.0N4,36,1678901234,Guide Ring,1,PC,Sealing,low,normal
+4897.B4T.0N4,37,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0N4,38,1234567890,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0N4,39,0789.A12.345-67,Needle bearing,1,PC,Housing,medium,normal
+4897.B4T.0N4,40,0567.B90.123-45,Valve,1,PC,Actuation,medium,normal
+4897.B4T.0N4,41,0234.C56.789-01,Valve,1,PC,Fastener,medium,normal
+4897.B4T.0N4,42,1456789012,Valve,1,PC,Housing,medium,normal
+4897.B4T.0N4,43,1789012345,Valve,1,PC,Sealing,medium,normal
+4897.B4T.0N4,44,1012345678,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0N4,45,1345789012,Valve,1,PC,Actuation,medium,normal
+4897.B4T.0N4,46,1678901234,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0N4,47,1901234567,Valve,1,PC,Sensorics,low,normal
+4897.B4T.0N4,48,1234567890,Valve,1,PC,Mechanics,low,normal
+4897.B4T.0N4,49,1567890123,Valve,1,PC,Mechanics,low,normal
+4897.B4T.0N4,50,1890123456,Pressure Sensor,1,PC,Actuation,medium,normal
+4897.B4T.0N4,51,0456.D78.901-23,Screw,1,PC,Fastener,low,normal
+4897.B4T.0N4,52,1123456789,Valve,1,PC,Mechanics,medium,normal
+4897.B4T.0N4,53,1456789012,Valve,1,PC,Sealing,medium,normal
+4897.B4T.0N4,54,2789012345,Compression Spring,1,PC,Fastener,low,normal
+4897.B4T.0N4,55,9338452044,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0N4,56,1345789012,Piston,1,PC,Actuation,low,normal
+4897.B4T.0N4,57,1234.F56.789-01,Piston,1,PC,Electronics,low,normal
+4897.B4T.0N4,58,1678901234,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0N4,59,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0N4,60,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0N4,61,0123.E45.678-90,Screw,1,PC,Fastener,low,normal
+4897.B4T.0N4,62,1567890123,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0PR,1,1345789012,Screw,1,PC,Fastener,low,normal
+4897.B4T.0PR,2,1876345901,Screw,1,PC,Fastener,low,normal
+4897.B4T.0PR,3,1543210987,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,4,1098765432,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,5,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,6,1987654321,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,7,1654321098,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,8,2109876543,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,9,1098765432,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0PR,10,1234567890,Compression Spring,1,PC,Electronics,low,normal
+4897.B4T.0PR,11,1543210987,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0PR,12,5123456789,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,13,1876345901,Grease,5,ML,Sealing,medium,normal
+4897.B4T.0PR,15,1345789012,Grease,0.01,G,Sealing,low,normal
+4897.B4T.0PR,16,1654321098,Pump,1,PC,Electronics,medium,normal
+4897.B4T.0PR,17,1987654321,Pump,1,PC,Actuation,medium,normal
+4897.B4T.0PR,18,1210987654,Valve,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,19,1567890123,Valve,1,PC,Mechanics,medium,normal
+4897.B4T.0PR,20,1890123456,Damper,1,PC,Electronics,low,normal
+4897.B4T.0PR,21,1123456789,Damper,1,PC,Hydraulics,low,normal
+4897.B4T.0PR,22,1456789012,Choke,1,PC,Housing,low,normal
+4897.B4T.0PR,23,123456789,Choke,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,24,1789012345,Damper,1,PC,Hydraulics,low,normal
+4897.B4T.0PR,25,2012345678,Motor,1,PC,Electronics,low,normal
+4897.B4T.0PR,26,2345678901,Damper,1,PC,Housing,low,normal
+4897.B4T.0PR,27,2678901234,Sticker,1,PC,Fastener,medium,normal
+4897.B4T.0PR,28,2901234567,Protective Cap,1,PC,Fastener,medium,normal
+4897.B4T.0PR,29,2123456789,Protective Cap,1,PC,Actuation,medium,normal
+4897.B4T.0PR,30,2456789012,Protective Cap,1,PC,Mechanics,low,normal
+4897.B4T.0PR,31,2789012345,Protective Cap,1,PC,Sensorics,medium,normal
+4897.B4T.0PR,32,5012345678,Protective Cap,1,PC,Sealing,low,normal
+4897.B4T.0PR,33,1345789012,Protective Cap,1,PC,Sealing,low,normal
+4897.B4T.0PR,34,1678901234,Brake Fluid,0.01,G,Mechanics,low,normal
+4897.B4T.0PR,35,1901234567,Guide Ring,1,PC,Electronics,low,normal
+4897.B4T.0PR,36,1234567890,Guide Ring,1,PC,Sensorics,medium,normal
+4897.B4T.0PR,37,0123.X45.678-90,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,38,0987.Y01.234-56,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0PR,39,0654.Z78.901-23,Needle bearing,1,PC,Housing,medium,normal
+4897.B4T.0PR,40,1345789012,Valve,1,PC,Housing,low,normal
+4897.B4T.0PR,41,1678901234,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0PR,42,1901234567,Valve,1,PC,Sealing,low,normal
+4897.B4T.0PR,43,1234567890,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0PR,44,1567890123,Valve,1,PC,Housing,medium,normal
+4897.B4T.0PR,45,1890123456,Valve,1,PC,Housing,medium,normal
+4897.B4T.0PR,46,1123456789,Valve,1,PC,Housing,low,normal
+4897.B4T.0PR,47,1456789012,Valve,1,PC,Mechanics,medium,normal
+4897.B4T.0PR,48,1789012345,Valve,1,PC,Hydraulics,low,normal
+4897.B4T.0PR,49,1012345678,Valve,1,PC,Mechanics,medium,normal
+4897.B4T.0PR,50,1345789012,Pressure Sensor,1,PC,Housing,medium,normal
+4897.B4T.0PR,51,2012345678,Screw,1,PC,Fastener,low,normal
+4897.B4T.0PR,52,1678901234,Valve,1,PC,Fastener,medium,normal
+4897.B4T.0PR,53,1901234567,Valve,1,PC,Housing,low,normal
+4897.B4T.0PR,54,1234.A56.789-01,Compression Spring,1,PC,Fastener,medium,normal
+4897.B4T.0PR,55,1234567890,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0PR,56,1567890123,Piston,1,PC,Housing,low,normal
+4897.B4T.0PR,57,1567890445,Piston,1,PC,Actuation,low,normal
+4897.B4T.0PR,58,1678888234,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0PR,59,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,60,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0PR,61,0123.E45.678-90,Screw,1,PC,Fastener,low,normal
+4897.B4T.0PR,62,2133890123,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0RJ,1,1345789012,Screw,1,PC,Fastener,low,normal
+4897.B4T.0RJ,2,1876345901,Screw,1,PC,Fastener,low,normal
+4897.B4T.0RJ,3,1543210987,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,4,1098765432,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,5,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,6,1987654321,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,7,1654321098,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,8,2109876543,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,9,1432109876,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0RJ,10,1789012345,Compression Spring,1,PC,Sensorics,medium,normal
+4897.B4T.0RJ,11,1321098765,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0RJ,12,5123456789,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,13,5876543210,Grease,5,ML,Sealing,low,normal
+4897.B4T.0RJ,15,1098765432,Grease,0.01,G,Fastener,medium,normal
+4897.B4T.0RJ,16,1234567890,Pump,1,PC,Electronics,low,normal
+4897.B4T.0RJ,17,1543210987,Pump,1,PC,Actuation,low,normal
+4897.B4T.0RJ,18,1876345901,Valve,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,19,1345789012,Valve,1,PC,Actuation,medium,normal
+4897.B4T.0RJ,20,1654321098,Damper,1,PC,Sealing,low,normal
+4897.B4T.0RJ,21,1987654321,Damper,1,PC,Sealing,medium,normal
+4897.B4T.0RJ,22,1210987654,Choke,1,PC,Housing,low,normal
+4897.B4T.0RJ,23,1567890123,Choke,1,PC,Housing,medium,normal
+4897.B4T.0RJ,24,123456789,Damper,1,PC,Housing,medium,normal
+4897.B4T.0RJ,25,1432109876,Motor,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,26,1789012345,Damper,1,PC,Hydraulics,low,normal
+4897.B4T.0RJ,28,2456789012,Protective Cap,1,PC,Sensorics,medium,normal
+4897.B4T.0RJ,29,2789012345,Protective Cap,1,PC,Actuation,low,normal
+4897.B4T.0RJ,30,2012345678,Protective Cap,1,PC,Mechanics,low,normal
+4897.B4T.0RJ,31,2345678901,Protective Cap,1,PC,Housing,low,normal
+4897.B4T.0RJ,32,2678901234,Protective Cap,1,PC,Electronics,medium,normal
+4897.B4T.0RJ,33,5987654321,Protective Cap,1,PC,Housing,medium,normal
+4897.B4T.0RJ,34,1012345678,Brake Fluid,0.01,G,Actuation,low,normal
+4897.B4T.0RJ,35,1345789012,Guide Ring,1,PC,Sensorics,medium,normal
+4897.B4T.0RJ,36,1678901234,Guide Ring,1,PC,Fastener,medium,normal
+4897.B4T.0RJ,37,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,38,1234567890,Sealing cap,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0RJ,39,0789.A12.345-67,Needle bearing,1,PC,Sensorics,low,normal
+4897.B4T.0RJ,40,0567.B90.123-45,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0RJ,41,0234.C56.789-01,Valve,1,PC,Mechanics,low,normal
+4897.B4T.0RJ,42,1456789012,Valve,1,PC,Sealing,low,normal
+4897.B4T.0RJ,43,1789012345,Valve,1,PC,Fastener,medium,normal
+4897.B4T.0RJ,44,1012345678,Valve,1,PC,Electronics,low,normal
+4897.B4T.0RJ,45,1345789012,Valve,1,PC,Hydraulics,low,normal
+4897.B4T.0RJ,46,1678901234,Valve,1,PC,Sealing,medium,normal
+4897.B4T.0RJ,47,1901234567,Valve,1,PC,Electronics,medium,normal
+4897.B4T.0RJ,48,1234567890,Valve,1,PC,Mechanics,low,normal
+4897.B4T.0RJ,49,1567890123,Valve,1,PC,Mechanics,low,normal
+4897.B4T.0RJ,50,1890123456,Pressure Sensor,1,PC,Electronics,medium,normal
+4897.B4T.0RJ,51,0456.D78.901-23,Screw,1,PC,Fastener,low,normal
+4897.B4T.0RJ,52,1123456789,Valve,1,PC,Housing,low,normal
+4897.B4T.0RJ,53,1456789012,Valve,1,PC,Actuation,low,normal
+4897.B4T.0RJ,54,2789012345,Compression Spring,1,PC,Electronics,medium,normal
+4897.B4T.0RJ,55,1012345678,O-Ring,1,PC,Sealing,high,critical for reuse check
+4897.B4T.0RJ,56,1345789012,Piston,1,PC,Sensorics,medium,normal
+4897.B4T.0RJ,57,1234.F56.789-01,Piston,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,58,1678901234,Housing,1,PC,Housing,high,critical for reuse check
+4897.B4T.0RJ,59,1901234567,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,60,1234567890,Ball,1,PC,Hydraulics,medium,normal
+4897.B4T.0RJ,61,0123.E45.678-90,Screw,1,PC,Fastener,low,normal
+4897.B4T.0RJ,62,1567890123,Housing,1,PC,Housing,high,critical for reuse check
+
+

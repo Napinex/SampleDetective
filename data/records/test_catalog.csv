@@ -1,0 +1,13 @@
+﻿test_type,test_name,description,min_health_required,max_usage_hours,usage_hours_default,health_penalty,repeat_allowed,requires,phase
+FUNC_CHECK,Funktionsprüfung,"Grundfunktion, Plausibilisierung der Sensorik und hydraulische Reaktion im Prüfstand.",40,900,3,2,yes,"stabile Muster-ID, dokumentierte BOM, kein offener High-Defect",Prüfstand
+PRESSURE_LEAK,Druck- und Leckagetest,Prüft Dichtheit und Druckhaltevermögen des Bremssystems.,55,800,6,4,yes,"Dichtungen/O-Rings vollständig, kein offener Leckage-Defect",Prüfstand
+ABS_CTRL,ABS-/Regelungstest,"Validiert Regelverhalten, Aktuatorik, Sensorik und Softwarestand.",60,650,12,6,limited,"Softwarestand dokumentiert, Sensorik/BOM vollständig",Prüfstand
+THERMAL_FADE,Thermal-Fade-Test,Belastet das Muster thermisch und bewertet Bremsleistung unter Temperaturstress.,70,520,28,10,limited,"keine offenen Medium/High Defects, vollständige Testhistorie",Prüfstand
+DURABILITY,Dauerlauf / Endurance,Langzeittest mit vielen Bremszyklen zur Bewertung von Robustheit und Alterung.,75,450,80,18,no,"Health Score hoch, kein offener Defect, Reuse-Freigabe",Prüfstand
+NVH_NOISE,NVH-/Geräuschtest,"Bewertet Geräusche, Vibrationen und subjektive Auffälligkeiten.",50,750,10,5,yes,"stabile Montage, keine bekannten Geräuschdefects",Prüfstand/Feld
+FIELD_DRIVE,Feld-/Fahrzeugtest,Nutzung unter realitätsnahen Bedingungen mit Betriebsdaten und Ereignisdokumentation.,68,500,55,14,limited,"Fahrzeugintegration möglich, Standort/Freigabe verfügbar",Feld
+REGRESSION_SW,Software-Regressionstest,"Prüft, ob ein neuer Software- oder Parameterstand keine bekannten Funktionen verschlechtert.",45,900,5,2,yes,Softwareversion und Kalibrierparameter bekannt,Prüfstand
+CORROSION,Korrosions-/Umwelttest,Belastet Komponenten durch Umweltbedingungen und bewertet Material-/Gehäusezustand.,65,500,36,12,no,"Komponentenstatus dokumentiert, EOL nicht geplant",Labor
+FINAL_VALID,Finale Validierung,Zusammenfassender Freigabetest nach Vorprüfungen und Defect-Schließung.,80,350,18,8,limited,"alle kritischen Vorprüfungen bestanden, keine offenen High Defects",V&V
+
+
